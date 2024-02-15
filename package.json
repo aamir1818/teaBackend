@@ -1,0 +1,19 @@
+{
+  "name": "tea-backend",
+  "version": "1.0.0",
+  "description": "Basic app in Javascript",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "tea"
+  ],
+  "author": "aamir",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.4",
+    "express": "^4.18.2"
+  }
+}
